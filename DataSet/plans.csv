@@ -1,0 +1,6 @@
+Plan_ID,Plan_Name,Billing_Cycle,Price_INR,Storage_Limit_GB,Max_Users
+P001,Free,Monthly,0,5,1
+P002,Basic,Monthly,499,50,3
+P003,Standard,Monthly,999,200,10
+P004,Premium,Annual,4999,1000,25
+P005,Enterprise,Annual,14999,5000,100
